@@ -10,3 +10,4 @@ What is CodeIgniter
 
 - 用户
 - 文章
+- 评论
